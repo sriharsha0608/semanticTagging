@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "schema": "http://schema.org/"
+  },
+  "@id": "#me",
+  "@type": "foaf:Person",
+  "schema:name": "Krishna Sri Harsha Arigila",
+  "schema:image": "myself.JPG",
+  "schema:description": [
+    "I was born and raised in Andhra Pradesh, India.",
+    "I've completed my bachelors in computer science from K L University in India.\n    I'm currently pursuing my masters in computer science at Saint Louis University.",
+    "After completing my bachelor's degree, I briefly worked as a database administrator at Infosys, where I learned how to use Microsoft SQL Server.",
+    "I have learnt few programming languages such as C, Java, Python, SQL, HTML and CSS, JavaScript, Oracle etc., Apart from these languages, I also possess certifications in PEGA as a system architect and senior system architect.",
+    "In my free time I enjoy listening to kpop and watching movies. I also like to travel and learn about new cultures.",
+    "If you'd like to know more about me or want to talk to me. You can find my contact details below"
+  ],
+  "schema:email": "sriharsha0608@gmail.com",
+  "schema:telephone": "+16367308903",
+  "schema:profile": "https://www.linkedin.com/in/krishna-sri-harsha-arigila-481b70137/"
+}
+
