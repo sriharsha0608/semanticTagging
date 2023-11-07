@@ -14,3 +14,4 @@
   <li>Paste the JSON-LD in the code snippet there.</li>
 </ol>
 <p>Now, you can see the validation of the output.</p>
+![image](https://github.com/sriharsha0608/semanticTagging/assets/120688467/bf5b5c2c-16e1-4cf1-8f37-f6b24f92ebd1)
